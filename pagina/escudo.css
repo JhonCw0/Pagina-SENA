@@ -16,7 +16,7 @@
 .img-2 {
     position: relative;
     top: -14px;
-    right: -800px;
+    right: -774px;
 }
 
 body {
@@ -85,8 +85,8 @@ nav ul li a:hover:before {
 }
 
 .tex-2 {
-    font-family: 'Sono', sans-serif;
+    font-family: 'Inter', sans-serif;
     position: absolute;
     top: 260px;
-    left: 270px;
+    left: 350px;
 }

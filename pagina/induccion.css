@@ -86,8 +86,26 @@ nav ul li a:hover:before {
 }
 
 .tex-2 {
-    font-family: 'Sono', sans-serif;
+    font-family: 'Inter', sans-serif;
     position: absolute;
     top: 250px;
-    left: 305px;
+    left: 300px;
+}
+
+.img-4{
+    position: relative;
+    top: 170px;
+    left: 160px;
+}
+
+.img-5{
+    position: relative;
+    top: 170px;
+    left: 220px;
+}
+
+.img-6{
+    position: relative;
+    top: 170px;
+    left: 276px;
 }
